@@ -23,13 +23,13 @@ body{
     
 }
 .pro{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 25px;
     width: 10%;
 }
 .pre{
     font-family: 'Bebas Neue', cursive;
-    color:white;
+    color:rgb(0, 0, 0);
     font-size: 45px;
 }
 .aa{
