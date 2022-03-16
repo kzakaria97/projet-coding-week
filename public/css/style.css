@@ -2,11 +2,11 @@ body{
     background-color: rgba(230, 144, 16, 0.856);
 }
 .fruit{
-    background-image: url("../image/fruit.jpg");
+    background-image: url("../image/newfruit.jpg");
     width: 100%;
 }
 .fruitt{
-    background-image: url("../image/fruit.jpg");
+    background-image: url("../image/newfruit.jpg");
     width: 100%;
 }
 .drop{
