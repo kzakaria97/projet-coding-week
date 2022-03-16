@@ -137,7 +137,7 @@ body{
     background-color: rgba(241, 7, 7, 0.815);
     height: 120px;
     text-align: center;
-    
+
 }
 .kk{
     position: relative;
@@ -216,7 +216,7 @@ body{
     animation-name: rotateIn;
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
-    -webkit-animation-fill-mode: both;
+    -webkit-animation-fill-mode: both; 
     animation-fill-mode: both;
     }
     @-webkit-keyframes rotateIn {
